@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+name = name.strip()
+name = name.lower()
+name = name.title()
+print(name)
